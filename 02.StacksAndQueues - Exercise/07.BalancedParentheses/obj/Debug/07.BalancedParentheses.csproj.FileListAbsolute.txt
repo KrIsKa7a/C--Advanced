@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\07.BalancedParentheses\bin\Debug\07.BalancedParentheses.exe.config
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\07.BalancedParentheses\bin\Debug\07.BalancedParentheses.exe
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\07.BalancedParentheses\bin\Debug\07.BalancedParentheses.pdb
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\07.BalancedParentheses\obj\Debug\07.BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\07.BalancedParentheses\obj\Debug\07.BalancedParentheses.exe
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\07.BalancedParentheses\obj\Debug\07.BalancedParentheses.pdb

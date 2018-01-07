@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.exe.config
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.exe
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.pdb
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.exe
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.pdb

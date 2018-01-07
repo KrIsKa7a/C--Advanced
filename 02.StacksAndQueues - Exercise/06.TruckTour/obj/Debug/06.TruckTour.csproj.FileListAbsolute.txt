@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\06.TruckTour\bin\Debug\06.TruckTour.exe.config
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\06.TruckTour\bin\Debug\06.TruckTour.exe
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\06.TruckTour\bin\Debug\06.TruckTour.pdb
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\06.TruckTour\obj\Debug\06.TruckTour.csprojResolveAssemblyReference.cache
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\06.TruckTour\obj\Debug\06.TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\06.TruckTour\obj\Debug\06.TruckTour.exe
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\06.TruckTour\obj\Debug\06.TruckTour.pdb

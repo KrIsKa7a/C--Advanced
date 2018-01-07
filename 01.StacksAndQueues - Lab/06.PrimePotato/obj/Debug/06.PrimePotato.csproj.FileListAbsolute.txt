@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\StackAndQueues\06.PrimePotato\bin\Debug\06.PrimePotato.exe.config
+C:\Users\Home\source\repos\StackAndQueues\06.PrimePotato\bin\Debug\06.PrimePotato.exe
+C:\Users\Home\source\repos\StackAndQueues\06.PrimePotato\bin\Debug\06.PrimePotato.pdb
+C:\Users\Home\source\repos\StackAndQueues\06.PrimePotato\obj\Debug\06.PrimePotato.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\StackAndQueues\06.PrimePotato\obj\Debug\06.PrimePotato.exe
+C:\Users\Home\source\repos\StackAndQueues\06.PrimePotato\obj\Debug\06.PrimePotato.pdb

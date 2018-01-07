@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\08.RecursiveFibbonacci\bin\Debug\08.RecursiveFibbonacci.exe.config
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\08.RecursiveFibbonacci\bin\Debug\08.RecursiveFibbonacci.exe
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\08.RecursiveFibbonacci\bin\Debug\08.RecursiveFibbonacci.pdb
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\08.RecursiveFibbonacci\obj\Debug\08.RecursiveFibbonacci.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\08.RecursiveFibbonacci\obj\Debug\08.RecursiveFibbonacci.exe
+C:\Users\Home\source\repos\StacksAndQueues-Exercise\08.RecursiveFibbonacci\obj\Debug\08.RecursiveFibbonacci.pdb
