@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\06.MinerTask\bin\Debug\06.MinerTask.exe.config
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\06.MinerTask\bin\Debug\06.MinerTask.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\06.MinerTask\bin\Debug\06.MinerTask.pdb
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\06.MinerTask\obj\Debug\06.MinerTask.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\06.MinerTask\obj\Debug\06.MinerTask.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\06.MinerTask\obj\Debug\06.MinerTask.pdb

@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\03.PeriodicTable\bin\Debug\03.PeriodicTable.exe.config
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\03.PeriodicTable\bin\Debug\03.PeriodicTable.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\03.PeriodicTable\bin\Debug\03.PeriodicTable.pdb
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\03.PeriodicTable\obj\Debug\03.PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\03.PeriodicTable\obj\Debug\03.PeriodicTable.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\03.PeriodicTable\obj\Debug\03.PeriodicTable.pdb

@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\09.UserLogs\bin\Debug\09.UserLogs.exe.config
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\09.UserLogs\bin\Debug\09.UserLogs.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\09.UserLogs\bin\Debug\09.UserLogs.pdb
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\09.UserLogs\obj\Debug\09.UserLogs.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\09.UserLogs\obj\Debug\09.UserLogs.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\09.UserLogs\obj\Debug\09.UserLogs.pdb

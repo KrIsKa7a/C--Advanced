@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\05.PhoneBook\bin\Debug\05.PhoneBook.exe.config
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\05.PhoneBook\bin\Debug\05.PhoneBook.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\05.PhoneBook\bin\Debug\05.PhoneBook.pdb
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\05.PhoneBook\obj\Debug\05.PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\05.PhoneBook\obj\Debug\05.PhoneBook.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\05.PhoneBook\obj\Debug\05.PhoneBook.pdb

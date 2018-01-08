@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\02.SetsOfElements\bin\Debug\02.SetsOfElements.exe.config
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\02.SetsOfElements\bin\Debug\02.SetsOfElements.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\02.SetsOfElements\bin\Debug\02.SetsOfElements.pdb
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\02.SetsOfElements\obj\Debug\02.SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\02.SetsOfElements\obj\Debug\02.SetsOfElements.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\02.SetsOfElements\obj\Debug\02.SetsOfElements.pdb

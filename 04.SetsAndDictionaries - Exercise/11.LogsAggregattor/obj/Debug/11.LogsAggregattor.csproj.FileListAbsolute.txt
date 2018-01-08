@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\11.LogsAggregattor\bin\Debug\11.LogsAggregattor.exe.config
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\11.LogsAggregattor\bin\Debug\11.LogsAggregattor.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\11.LogsAggregattor\bin\Debug\11.LogsAggregattor.pdb
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\11.LogsAggregattor\obj\Debug\11.LogsAggregattor.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\11.LogsAggregattor\obj\Debug\11.LogsAggregattor.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\11.LogsAggregattor\obj\Debug\11.LogsAggregattor.pdb

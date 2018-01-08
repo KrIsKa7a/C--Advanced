@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\07.FixEmails\bin\Debug\07.FixEmails.exe.config
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\07.FixEmails\bin\Debug\07.FixEmails.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\07.FixEmails\bin\Debug\07.FixEmails.pdb
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\07.FixEmails\obj\Debug\07.FixEmails.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\07.FixEmails\obj\Debug\07.FixEmails.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\07.FixEmails\obj\Debug\07.FixEmails.pdb

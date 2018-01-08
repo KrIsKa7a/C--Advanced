@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\10.PopulationCenter\bin\Debug\10.PopulationCenter.exe.config
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\10.PopulationCenter\bin\Debug\10.PopulationCenter.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\10.PopulationCenter\bin\Debug\10.PopulationCenter.pdb
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\10.PopulationCenter\obj\Debug\10.PopulationCenter.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\10.PopulationCenter\obj\Debug\10.PopulationCenter.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\10.PopulationCenter\obj\Debug\10.PopulationCenter.pdb

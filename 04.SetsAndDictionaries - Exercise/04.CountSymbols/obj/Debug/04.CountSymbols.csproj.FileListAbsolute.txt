@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\04.CountSymbols\bin\Debug\04.CountSymbols.exe.config
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\04.CountSymbols\bin\Debug\04.CountSymbols.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\04.CountSymbols\bin\Debug\04.CountSymbols.pdb
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\04.CountSymbols\obj\Debug\04.CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\04.CountSymbols\obj\Debug\04.CountSymbols.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\04.CountSymbols\obj\Debug\04.CountSymbols.pdb
