@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\SetsAndDictionaries\01. ParkingSet\bin\Debug\_01.ParkingSet.exe.config
+C:\Users\Home\source\repos\SetsAndDictionaries\01. ParkingSet\bin\Debug\_01.ParkingSet.exe
+C:\Users\Home\source\repos\SetsAndDictionaries\01. ParkingSet\bin\Debug\_01.ParkingSet.pdb
+C:\Users\Home\source\repos\SetsAndDictionaries\01. ParkingSet\obj\Debug\01. ParkingSet.csprojResolveAssemblyReference.cache
+C:\Users\Home\source\repos\SetsAndDictionaries\01. ParkingSet\obj\Debug\01. ParkingSet.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SetsAndDictionaries\01. ParkingSet\obj\Debug\_01.ParkingSet.exe
+C:\Users\Home\source\repos\SetsAndDictionaries\01. ParkingSet\obj\Debug\_01.ParkingSet.pdb

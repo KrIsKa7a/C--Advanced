@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\SetsAndDictionaries\03.CountSameValuesInArray\bin\Debug\03.CountSameValuesInArray.exe.config
+C:\Users\Home\source\repos\SetsAndDictionaries\03.CountSameValuesInArray\bin\Debug\03.CountSameValuesInArray.exe
+C:\Users\Home\source\repos\SetsAndDictionaries\03.CountSameValuesInArray\bin\Debug\03.CountSameValuesInArray.pdb
+C:\Users\Home\source\repos\SetsAndDictionaries\03.CountSameValuesInArray\obj\Debug\03.CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SetsAndDictionaries\03.CountSameValuesInArray\obj\Debug\03.CountSameValuesInArray.exe
+C:\Users\Home\source\repos\SetsAndDictionaries\03.CountSameValuesInArray\obj\Debug\03.CountSameValuesInArray.pdb

@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\SetsAndDictionaries\02.SoftUniParty\bin\Debug\02.SoftUniParty.exe.config
+C:\Users\Home\source\repos\SetsAndDictionaries\02.SoftUniParty\bin\Debug\02.SoftUniParty.exe
+C:\Users\Home\source\repos\SetsAndDictionaries\02.SoftUniParty\bin\Debug\02.SoftUniParty.pdb
+C:\Users\Home\source\repos\SetsAndDictionaries\02.SoftUniParty\obj\Debug\02.SoftUniParty.csprojResolveAssemblyReference.cache
+C:\Users\Home\source\repos\SetsAndDictionaries\02.SoftUniParty\obj\Debug\02.SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SetsAndDictionaries\02.SoftUniParty\obj\Debug\02.SoftUniParty.exe
+C:\Users\Home\source\repos\SetsAndDictionaries\02.SoftUniParty\obj\Debug\02.SoftUniParty.pdb

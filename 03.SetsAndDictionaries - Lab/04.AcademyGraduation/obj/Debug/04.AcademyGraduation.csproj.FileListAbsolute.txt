@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\SetsAndDictionaries\04.AcademyGraduation\bin\Debug\04.AcademyGraduation.exe.config
+C:\Users\Home\source\repos\SetsAndDictionaries\04.AcademyGraduation\bin\Debug\04.AcademyGraduation.exe
+C:\Users\Home\source\repos\SetsAndDictionaries\04.AcademyGraduation\bin\Debug\04.AcademyGraduation.pdb
+C:\Users\Home\source\repos\SetsAndDictionaries\04.AcademyGraduation\obj\Debug\04.AcademyGraduation.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SetsAndDictionaries\04.AcademyGraduation\obj\Debug\04.AcademyGraduation.exe
+C:\Users\Home\source\repos\SetsAndDictionaries\04.AcademyGraduation\obj\Debug\04.AcademyGraduation.pdb
