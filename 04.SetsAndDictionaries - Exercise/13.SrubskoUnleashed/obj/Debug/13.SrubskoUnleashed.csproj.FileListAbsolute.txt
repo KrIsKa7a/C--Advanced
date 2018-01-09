@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\13.SrubskoUnleashed\bin\Debug\13.SrubskoUnleashed.exe.config
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\13.SrubskoUnleashed\bin\Debug\13.SrubskoUnleashed.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\13.SrubskoUnleashed\bin\Debug\13.SrubskoUnleashed.pdb
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\13.SrubskoUnleashed\obj\Debug\13.SrubskoUnleashed.csprojResolveAssemblyReference.cache
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\13.SrubskoUnleashed\obj\Debug\13.SrubskoUnleashed.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\13.SrubskoUnleashed\obj\Debug\13.SrubskoUnleashed.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\13.SrubskoUnleashed\obj\Debug\13.SrubskoUnleashed.pdb

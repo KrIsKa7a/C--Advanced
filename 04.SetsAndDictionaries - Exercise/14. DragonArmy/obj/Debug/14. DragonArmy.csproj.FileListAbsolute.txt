@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\14. DragonArmy\bin\Debug\_14.DragonArmy.exe.config
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\14. DragonArmy\bin\Debug\_14.DragonArmy.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\14. DragonArmy\bin\Debug\_14.DragonArmy.pdb
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\14. DragonArmy\obj\Debug\14. DragonArmy.csprojResolveAssemblyReference.cache
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\14. DragonArmy\obj\Debug\14. DragonArmy.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\14. DragonArmy\obj\Debug\_14.DragonArmy.exe
+C:\Users\Home\source\repos\SetsAndDictionaries - Exercise\14. DragonArmy\obj\Debug\_14.DragonArmy.pdb
