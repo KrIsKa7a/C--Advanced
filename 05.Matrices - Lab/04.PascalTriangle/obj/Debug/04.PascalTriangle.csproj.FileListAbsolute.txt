@@ -1,0 +1,6 @@
+D:\VisualStudio2017 Projects\MatrixJustATry\04.PascalTriangle\bin\Debug\04.PascalTriangle.exe.config
+D:\VisualStudio2017 Projects\MatrixJustATry\04.PascalTriangle\bin\Debug\04.PascalTriangle.exe
+D:\VisualStudio2017 Projects\MatrixJustATry\04.PascalTriangle\bin\Debug\04.PascalTriangle.pdb
+D:\VisualStudio2017 Projects\MatrixJustATry\04.PascalTriangle\obj\Debug\04.PascalTriangle.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\MatrixJustATry\04.PascalTriangle\obj\Debug\04.PascalTriangle.exe
+D:\VisualStudio2017 Projects\MatrixJustATry\04.PascalTriangle\obj\Debug\04.PascalTriangle.pdb

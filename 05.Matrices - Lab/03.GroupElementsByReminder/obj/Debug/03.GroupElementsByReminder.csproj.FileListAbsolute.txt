@@ -1,0 +1,7 @@
+D:\VisualStudio2017 Projects\MatrixJustATry\03.GroupElementsByReminder\bin\Debug\03.GroupElementsByReminder.exe.config
+D:\VisualStudio2017 Projects\MatrixJustATry\03.GroupElementsByReminder\bin\Debug\03.GroupElementsByReminder.exe
+D:\VisualStudio2017 Projects\MatrixJustATry\03.GroupElementsByReminder\bin\Debug\03.GroupElementsByReminder.pdb
+D:\VisualStudio2017 Projects\MatrixJustATry\03.GroupElementsByReminder\obj\Debug\03.GroupElementsByReminder.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\MatrixJustATry\03.GroupElementsByReminder\obj\Debug\03.GroupElementsByReminder.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\MatrixJustATry\03.GroupElementsByReminder\obj\Debug\03.GroupElementsByReminder.exe
+D:\VisualStudio2017 Projects\MatrixJustATry\03.GroupElementsByReminder\obj\Debug\03.GroupElementsByReminder.pdb

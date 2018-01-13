@@ -1,0 +1,6 @@
+D:\VisualStudio2017 Projects\MatrixJustATry\02.MaximumSumOf2x2Elements\bin\Debug\02.MaximumSumOf2x2Elements.exe.config
+D:\VisualStudio2017 Projects\MatrixJustATry\02.MaximumSumOf2x2Elements\bin\Debug\02.MaximumSumOf2x2Elements.exe
+D:\VisualStudio2017 Projects\MatrixJustATry\02.MaximumSumOf2x2Elements\bin\Debug\02.MaximumSumOf2x2Elements.pdb
+D:\VisualStudio2017 Projects\MatrixJustATry\02.MaximumSumOf2x2Elements\obj\Debug\02.MaximumSumOf2x2Elements.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\MatrixJustATry\02.MaximumSumOf2x2Elements\obj\Debug\02.MaximumSumOf2x2Elements.exe
+D:\VisualStudio2017 Projects\MatrixJustATry\02.MaximumSumOf2x2Elements\obj\Debug\02.MaximumSumOf2x2Elements.pdb

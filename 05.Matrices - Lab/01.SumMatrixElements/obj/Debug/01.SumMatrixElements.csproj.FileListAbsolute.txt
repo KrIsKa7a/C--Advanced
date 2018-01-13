@@ -1,0 +1,7 @@
+D:\VisualStudio2017 Projects\MatrixJustATry\01.SumMatrixElements\bin\Debug\01.SumMatrixElements.exe.config
+D:\VisualStudio2017 Projects\MatrixJustATry\01.SumMatrixElements\bin\Debug\01.SumMatrixElements.exe
+D:\VisualStudio2017 Projects\MatrixJustATry\01.SumMatrixElements\bin\Debug\01.SumMatrixElements.pdb
+D:\VisualStudio2017 Projects\MatrixJustATry\01.SumMatrixElements\obj\Debug\01.SumMatrixElements.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\MatrixJustATry\01.SumMatrixElements\obj\Debug\01.SumMatrixElements.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\MatrixJustATry\01.SumMatrixElements\obj\Debug\01.SumMatrixElements.exe
+D:\VisualStudio2017 Projects\MatrixJustATry\01.SumMatrixElements\obj\Debug\01.SumMatrixElements.pdb
