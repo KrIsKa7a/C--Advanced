@@ -1,9 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
 namespace _04.MatchingBrackets
 {
@@ -11,23 +7,25 @@ namespace _04.MatchingBrackets
     {
         static void Main(string[] args)
         {
-            var equation = Console.ReadLine();
+            var input = Console.ReadLine();
 
-            var splitted = new Stack<int>();
+            var stackForOpeningIndexes = new Stack<int>();
 
-            for (int i = 0; i < equation.Length; i++)
+            for (int i = 0; i < input.Length; i++)
             {
-                if (equation[i] == '(')
+                var currentChar = input[i];
+
+                if (currentChar == '(')
                 {
-                    splitted.Push(i);
+                    stackForOpeningIndexes.Push(i);
                 }
-                else if (equation[i] == ')')
+                else if (currentChar == ')')
                 {
-                    var startIndex = splitted.Pop();
-                    string toPrint = equation.Substring(startIndex, i - startIndex + 1);
-                    Console.WriteLine(toPrint);
+                    var start = stackForOpeningIndexes.Pop();
+                    var lenght = i - start + 1;
+                    Console.WriteLine(input.Substring(start, lenght));
                 }
-            }    
+            }
         }
     }
 }

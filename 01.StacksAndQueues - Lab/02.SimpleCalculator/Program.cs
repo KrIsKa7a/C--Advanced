@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _02.SimpleCalculator
 {
@@ -10,33 +7,45 @@ namespace _02.SimpleCalculator
     {
         static void Main(string[] args)
         {
-            var equation = Console.ReadLine()
-                .Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
-                .ToArray();
+            var input = Console.ReadLine()
+                .Split(' ');
 
-            var stack = new Stack<string>(equation.Reverse());
+            var stack = new Stack<string>();
+
+            FillingTheStackReversed(input, stack);
+
+            var result = 0d;
 
             while (stack.Count > 1)
             {
-                var leftOperand = int.Parse(stack.Pop());
-                var op = stack.Pop();
-                var rightOperand = int.Parse(stack.Pop());
+                var leftOperand = double.Parse(stack.Pop());
+                var operation = stack.Pop();
+                var rightOperand = double.Parse(stack.Pop());
 
-                var result = 0;
-
-                if (op == "+")
+                switch (operation)
                 {
-                    result = leftOperand + rightOperand;
-                }
-                else
-                {
-                    result = leftOperand - rightOperand;
+                    case "+":
+                        result = leftOperand + rightOperand;
+                        break;
+                    case "-":
+                        result = leftOperand - rightOperand;
+                        break;
+                    default:
+                        break;
                 }
 
                 stack.Push(result.ToString());
             }
 
-            Console.WriteLine(stack.Pop());
+            Console.WriteLine(result);
+        }
+
+        private static void FillingTheStackReversed(string[] input, Stack<string> stack)
+        {
+            for (int i = input.Length - 1; i >= 0; i--)
+            {
+                stack.Push(input[i]);
+            }
         }
     }
 }

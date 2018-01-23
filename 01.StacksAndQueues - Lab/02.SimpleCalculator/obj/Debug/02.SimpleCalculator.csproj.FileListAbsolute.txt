@@ -1,6 +1,0 @@
-C:\Users\Home\source\repos\StackAndQueues\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.exe.config
-C:\Users\Home\source\repos\StackAndQueues\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.exe
-C:\Users\Home\source\repos\StackAndQueues\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.pdb
-C:\Users\Home\source\repos\StackAndQueues\02.SimpleCalculator\obj\Debug\02.SimpleCalculator.csproj.CoreCompileInputs.cache
-C:\Users\Home\source\repos\StackAndQueues\02.SimpleCalculator\obj\Debug\02.SimpleCalculator.exe
-C:\Users\Home\source\repos\StackAndQueues\02.SimpleCalculator\obj\Debug\02.SimpleCalculator.pdb

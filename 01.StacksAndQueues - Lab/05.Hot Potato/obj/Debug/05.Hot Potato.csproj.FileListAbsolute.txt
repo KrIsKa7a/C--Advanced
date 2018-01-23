@@ -1,7 +1,0 @@
-C:\Users\Home\source\repos\StackAndQueues\05.Hot Potato\bin\Debug\05.Hot Potato.exe.config
-C:\Users\Home\source\repos\StackAndQueues\05.Hot Potato\bin\Debug\05.Hot Potato.exe
-C:\Users\Home\source\repos\StackAndQueues\05.Hot Potato\bin\Debug\05.Hot Potato.pdb
-C:\Users\Home\source\repos\StackAndQueues\05.Hot Potato\obj\Debug\05.Hot Potato.csprojResolveAssemblyReference.cache
-C:\Users\Home\source\repos\StackAndQueues\05.Hot Potato\obj\Debug\05.Hot Potato.csproj.CoreCompileInputs.cache
-C:\Users\Home\source\repos\StackAndQueues\05.Hot Potato\obj\Debug\05.Hot Potato.exe
-C:\Users\Home\source\repos\StackAndQueues\05.Hot Potato\obj\Debug\05.Hot Potato.pdb
