@@ -1,6 +1,0 @@
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\09.FibbonacciStack\bin\Debug\09.FibbonacciStack.exe.config
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\09.FibbonacciStack\bin\Debug\09.FibbonacciStack.exe
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\09.FibbonacciStack\bin\Debug\09.FibbonacciStack.pdb
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\09.FibbonacciStack\obj\Debug\09.FibbonacciStack.csproj.CoreCompileInputs.cache
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\09.FibbonacciStack\obj\Debug\09.FibbonacciStack.exe
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\09.FibbonacciStack\obj\Debug\09.FibbonacciStack.pdb

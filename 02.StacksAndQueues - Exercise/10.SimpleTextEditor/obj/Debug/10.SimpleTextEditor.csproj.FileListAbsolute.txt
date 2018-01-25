@@ -1,7 +1,0 @@
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\10.SimpleTextEditor\bin\Debug\10.SimpleTextEditor.exe.config
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\10.SimpleTextEditor\bin\Debug\10.SimpleTextEditor.exe
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\10.SimpleTextEditor\bin\Debug\10.SimpleTextEditor.pdb
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\10.SimpleTextEditor\obj\Debug\10.SimpleTextEditor.csprojResolveAssemblyReference.cache
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\10.SimpleTextEditor\obj\Debug\10.SimpleTextEditor.csproj.CoreCompileInputs.cache
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\10.SimpleTextEditor\obj\Debug\10.SimpleTextEditor.exe
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\10.SimpleTextEditor\obj\Debug\10.SimpleTextEditor.pdb

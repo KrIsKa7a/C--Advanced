@@ -1,7 +1,0 @@
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\05.SequenceWithQueue\bin\Debug\05.SequenceWithQueue.exe.config
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\05.SequenceWithQueue\bin\Debug\05.SequenceWithQueue.exe
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\05.SequenceWithQueue\bin\Debug\05.SequenceWithQueue.pdb
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\05.SequenceWithQueue\obj\Debug\05.SequenceWithQueue.csprojResolveAssemblyReference.cache
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\05.SequenceWithQueue\obj\Debug\05.SequenceWithQueue.csproj.CoreCompileInputs.cache
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\05.SequenceWithQueue\obj\Debug\05.SequenceWithQueue.exe
-C:\Users\Home\source\repos\StacksAndQueues-Exercise\05.SequenceWithQueue\obj\Debug\05.SequenceWithQueue.pdb

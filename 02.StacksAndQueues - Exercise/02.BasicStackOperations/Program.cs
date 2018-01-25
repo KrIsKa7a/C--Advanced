@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _02.BasicStackOperations
 {
@@ -10,66 +8,51 @@ namespace _02.BasicStackOperations
     {
         static void Main(string[] args)
         {
-            var operators = Console.ReadLine()
+            var commands = Console.ReadLine()
                 .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
-                .Select(long.Parse)
+                .Select(int.Parse)
                 .ToArray();
 
-            var N = operators[0];
-            var S = operators[1];
-            var X = operators[2];
+            var toAdd = commands[0];
+            var toPop = commands[1];
+            var toContain = commands[2];
 
-            var numbersToAdd = Console.ReadLine()
+            var numbers = Console.ReadLine()
                 .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
-                .Select(long.Parse)
+                .Select(int.Parse)
                 .ToArray();
 
-            var numbers = new Stack<long>();
+            var stack = new Stack<int>(numbers);
 
-            PushingNumbers(numbersToAdd, numbers);
+            PoppingFromStack(toPop, stack);
 
-            PopingNumbers(S, numbers);
-
-            PrintResult(X, numbers);
-        }
-
-        private static void PrintResult(long X, Stack<long> numbers)
-        {
-            if (numbers.Contains(X))
+            if (stack.Count == 0)
             {
-                Console.WriteLine("true");
+                Console.WriteLine(0);
             }
             else
             {
-                if (numbers.Count == 0)
+                if (stack.Contains(toContain))
                 {
-                    Console.WriteLine(0);
+                    Console.WriteLine("true");
                 }
                 else
                 {
-                    Console.WriteLine(numbers.Min());
+                    Console.WriteLine(stack.Min());
                 }
             }
         }
 
-        private static void PopingNumbers(long S, Stack<long> numbers)
+        private static void PoppingFromStack(int toPop, Stack<int> stack)
         {
-            for (int i = 0; i < S; i++)
+            for (int i = 0; i < toPop; i++)
             {
-                if (numbers.Count == 0)
+                if (stack.Count == 0)
                 {
                     break;
                 }
 
-                numbers.Pop();
-            }
-        }
-
-        private static void PushingNumbers(long[] numbersToAdd, Stack<long> numbers)
-        {
-            foreach (var number in numbersToAdd)
-            {
-                numbers.Push(number);
+                stack.Pop();
             }
         }
     }

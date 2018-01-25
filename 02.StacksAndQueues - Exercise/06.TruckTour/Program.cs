@@ -2,52 +2,63 @@
 using System.Collections.Generic;
 using System.Linq;
 
-public class TruckTour
+namespace _06.TruckTour
 {
-    static int entries;
-    static Queue<int[]> pumps;
-
-    public static void Main(string[] args)
+    class Program
     {
-
-        entries = int.Parse(Console.ReadLine());
-        pumps = new Queue<int[]>();
-
-        for (int entry = 0; entry < entries; entry++)
-            pumps.Enqueue(Console.ReadLine().Split(' ').Select(int.Parse).ToArray());
-
-        for (int entry = 0; entry < entries; entry++)
+        static void Main(string[] args)
         {
-            if (IsSolution())
+            var n = int.Parse(Console.ReadLine());
+
+            var queue = new Queue<int[]>();
+
+            for (int i = 0; i < n; i++)
             {
-                Console.WriteLine(entry);
-                break;
+                var currentInput = Console.ReadLine()
+                    .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                    .Select(int.Parse)
+                    .ToArray();
+
+                queue.Enqueue(currentInput);
             }
-            int[] startingPump = pumps.Dequeue();
-            pumps.Enqueue(startingPump);
-        }
 
-    }
+            var perfectIndex = 0;
+            var counter = 0;
 
-    static bool IsSolution()
-    {
-        int tankFuel = 0;
-        bool foundAnswer = true;
-
-        for (int entry = 0; entry < entries; entry++)
-        {
-            int[] currPump = pumps.Dequeue();
-            tankFuel += currPump[0] - currPump[1];
-            if (tankFuel < 0)
+            while (true)
             {
-                foundAnswer = false;
-            }
-            pumps.Enqueue(currPump);
-        }
+                //var protoQueue = new Queue<string>(queue);
+                var toBreak = false;
 
-        if (foundAnswer)
-            return true;
-        else
-            return false;
+                var fuelAmount = 0;
+
+                for (int i = 0; i < n; i++)
+                {
+                    var currentPumpString = queue.Dequeue();
+
+                    fuelAmount += currentPumpString[0];
+
+                    if (fuelAmount < currentPumpString[1])
+                    {
+                        toBreak = true;
+                    }
+
+                    fuelAmount -= currentPumpString[1];
+                    queue.Enqueue(currentPumpString);
+                }
+
+                if (toBreak == false)
+                {
+                    perfectIndex = counter;
+                    break;
+                }
+
+                counter++;
+
+                queue.Enqueue(queue.Dequeue());
+            }
+
+            Console.WriteLine(counter);
+        }
     }
 }

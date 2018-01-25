@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _04.BasicQueueOperations
 {
@@ -10,66 +8,45 @@ namespace _04.BasicQueueOperations
     {
         static void Main(string[] args)
         {
-            var operators = Console.ReadLine()
+            var commandsNumbers = Console.ReadLine()
                 .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
-                .Select(long.Parse)
+                .Select(int.Parse)
                 .ToArray();
 
-            var N = operators[0];
-            var S = operators[1];
-            var X = operators[2];
+            var toAdd = commandsNumbers[0];
+            var toDequeue = commandsNumbers[1];
+            var toContains = commandsNumbers[2];
 
-            var toAdd = Console.ReadLine()
+            var numbers = Console.ReadLine()
                 .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
-                .Select(long.Parse)
-                .ToArray();
+                .Select(int.Parse);
 
-            var numbers = new Queue<long>();
+            var queue = new Queue<int>(numbers);
 
-            EnqueuingNumbers(toAdd, numbers);
-
-            DequeuingNumbers(S, numbers);
-
-            PrintingResult(X, numbers);
-        }
-
-        private static void PrintingResult(long X, Queue<long> numbers)
-        {
-            if (numbers.Contains(X))
+            for (int i = 0; i < toDequeue; i++)
             {
-                Console.WriteLine("true");
-            }
-            else
-            {
-                if (numbers.Count == 0)
-                {
-                    Console.WriteLine(0);
-                }
-                else
-                {
-                    Console.WriteLine(numbers.Min());
-                }
-            }
-        }
-
-        private static void DequeuingNumbers(long S, Queue<long> numbers)
-        {
-            for (int i = 0; i < S; i++)
-            {
-                if (numbers.Count == 0)
+                if (queue.Count == 0)
                 {
                     break;
                 }
 
-                numbers.Dequeue();
+                queue.Dequeue();
             }
-        }
 
-        private static void EnqueuingNumbers(long[] toAdd, Queue<long> numbers)
-        {
-            foreach (var number in toAdd)
+            if (queue.Count == 0)
             {
-                numbers.Enqueue(number);
+                Console.WriteLine(0);
+            }
+            else
+            {
+                if (queue.Contains(toContains))
+                {
+                    Console.WriteLine("true");
+                }
+                else
+                {
+                    Console.WriteLine(queue.Min());
+                }
             }
         }
     }

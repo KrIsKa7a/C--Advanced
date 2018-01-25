@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace PoisonousPlants
+namespace _11.PoisonousPlants
 {
-    public class PoisonousPlants
+    class Program
     {
-        public static void Main()
+        static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
             var plants = Console.ReadLine()

@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _03.MaximumElement
 {
@@ -12,48 +9,40 @@ namespace _03.MaximumElement
         {
             var n = int.Parse(Console.ReadLine());
 
-            var numbers = new Stack<int>();
-            var maxValues = new Stack<int>();
-
-            maxValues.Push(int.MinValue);
+            var stack = new Stack<int>();
+            var maxValuesStack = new Stack<int>();
+            maxValuesStack.Push(int.MinValue);
 
             for (int i = 0; i < n; i++)
             {
-                var input = ReadingInput();
+                var commandArgs = Console.ReadLine()
+                    .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+                var cmdType = commandArgs[0];
 
-                var type = input[0];
-
-                if (type == "1")
+                if (cmdType == "1")
                 {
-                    var num = int.Parse(input[1]);
-                    numbers.Push(num);
+                    var toPush = int.Parse(commandArgs[1]);
+                    stack.Push(toPush);
 
-                    if (maxValues.Peek() <= num)
+                    if (toPush > maxValuesStack.Peek())
                     {
-                        maxValues.Push(num);
+                        maxValuesStack.Push(toPush);
                     }
                 }
-                else if (type == "2")
+                else if (cmdType == "2")
                 {
-                    if (numbers.Pop() == maxValues.Peek())
+                    var toPop = stack.Pop();
+
+                    if (toPop == maxValuesStack.Peek())
                     {
-                        maxValues.Pop();
+                        maxValuesStack.Pop();
                     }
                 }
-                else if (type == "3")
+                else if (cmdType == "3")
                 {
-                    Console.WriteLine(maxValues.Peek());
+                    Console.WriteLine(maxValuesStack.Peek());
                 }
             }
-        }
-
-        static string[] ReadingInput()
-        {
-            var input = Console.ReadLine()
-                    .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
-                    .ToArray();
-
-            return input;
         }
     }
 }

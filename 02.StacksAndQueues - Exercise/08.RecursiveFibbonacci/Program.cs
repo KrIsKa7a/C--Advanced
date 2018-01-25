@@ -1,19 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _08.RecursiveFibbonacci
 {
     class Program
     {
-        private static long[] fibNumbers;
+        private static long[] fibbonacciNumbers;
         static void Main(string[] args)
         {
             var n = int.Parse(Console.ReadLine());
 
-            fibNumbers = new long[n];
+            fibbonacciNumbers = new long[n];
 
             long fibb = GetFibbonacci(n);
 
@@ -24,15 +20,16 @@ namespace _08.RecursiveFibbonacci
         {
             if (n <= 2)
             {
-                fibNumbers[n - 1] = 1;
+                fibbonacciNumbers[n - 1] = 1;
                 return 1;
             }
-            if (fibNumbers[n - 1] != 0)
+
+            if (fibbonacciNumbers[n - 1] != 0)
             {
-                return fibNumbers[n - 1];
+                return fibbonacciNumbers[n - 1];
             }
-            
-            return fibNumbers[n - 1] = GetFibbonacci(n - 1) + GetFibbonacci(n - 2);
+
+            return fibbonacciNumbers[n - 1] = GetFibbonacci(n - 1) + GetFibbonacci(n - 2);
         }
     }
 }
