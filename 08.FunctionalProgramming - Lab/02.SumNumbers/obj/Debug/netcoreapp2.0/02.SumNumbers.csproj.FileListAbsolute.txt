@@ -1,0 +1,10 @@
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\02.SumNumbers\bin\Debug\netcoreapp2.0\02.SumNumbers.deps.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\02.SumNumbers\bin\Debug\netcoreapp2.0\02.SumNumbers.runtimeconfig.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\02.SumNumbers\bin\Debug\netcoreapp2.0\02.SumNumbers.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\02.SumNumbers\bin\Debug\netcoreapp2.0\02.SumNumbers.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\02.SumNumbers\bin\Debug\netcoreapp2.0\02.SumNumbers.pdb
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\02.SumNumbers\obj\Debug\netcoreapp2.0\02.SumNumbers.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\02.SumNumbers\obj\Debug\netcoreapp2.0\02.SumNumbers.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\02.SumNumbers\obj\Debug\netcoreapp2.0\02.SumNumbers.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\02.SumNumbers\obj\Debug\netcoreapp2.0\02.SumNumbers.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\02.SumNumbers\obj\Debug\netcoreapp2.0\02.SumNumbers.pdb

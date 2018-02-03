@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\05.FilterByAge\bin\Debug\netcoreapp2.0\05.FilterByAge.deps.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\05.FilterByAge\bin\Debug\netcoreapp2.0\05.FilterByAge.runtimeconfig.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\05.FilterByAge\bin\Debug\netcoreapp2.0\05.FilterByAge.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\05.FilterByAge\bin\Debug\netcoreapp2.0\05.FilterByAge.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\05.FilterByAge\bin\Debug\netcoreapp2.0\05.FilterByAge.pdb
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\netcoreapp2.0\05.FilterByAge.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\netcoreapp2.0\05.FilterByAge.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\netcoreapp2.0\05.FilterByAge.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\netcoreapp2.0\05.FilterByAge.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\netcoreapp2.0\05.FilterByAge.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Lab\05.FilterByAge\obj\Debug\netcoreapp2.0\05.FilterByAge.pdb
