@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\13.TriFunction\bin\Debug\netcoreapp2.0\13.TriFunction.deps.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\13.TriFunction\bin\Debug\netcoreapp2.0\13.TriFunction.runtimeconfig.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\13.TriFunction\bin\Debug\netcoreapp2.0\13.TriFunction.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\13.TriFunction\bin\Debug\netcoreapp2.0\13.TriFunction.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\13.TriFunction\bin\Debug\netcoreapp2.0\13.TriFunction.pdb
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\13.TriFunction\obj\Debug\netcoreapp2.0\13.TriFunction.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\13.TriFunction\obj\Debug\netcoreapp2.0\13.TriFunction.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\13.TriFunction\obj\Debug\netcoreapp2.0\13.TriFunction.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\13.TriFunction\obj\Debug\netcoreapp2.0\13.TriFunction.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\13.TriFunction\obj\Debug\netcoreapp2.0\13.TriFunction.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\13.TriFunction\obj\Debug\netcoreapp2.0\13.TriFunction.pdb

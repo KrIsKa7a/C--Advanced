@@ -1,0 +1,10 @@
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.deps.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.runtimeconfig.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.pdb
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.pdb

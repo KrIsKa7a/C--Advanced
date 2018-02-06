@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.deps.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.runtimeconfig.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\02.KnightsOfHonor\bin\Debug\netcoreapp2.0\02.KnightsOfHonor.pdb
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\02.KnightsOfHonor\obj\Debug\netcoreapp2.0\02.KnightsOfHonor.pdb

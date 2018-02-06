@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.deps.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.runtimeconfig.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.pdb
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.pdb

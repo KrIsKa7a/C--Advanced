@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\01.ActionPoint\bin\Debug\netcoreapp2.0\01.ActionPoint.deps.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\01.ActionPoint\bin\Debug\netcoreapp2.0\01.ActionPoint.runtimeconfig.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\01.ActionPoint\bin\Debug\netcoreapp2.0\01.ActionPoint.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\01.ActionPoint\bin\Debug\netcoreapp2.0\01.ActionPoint.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\01.ActionPoint\bin\Debug\netcoreapp2.0\01.ActionPoint.pdb
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\01.ActionPoint\obj\Debug\netcoreapp2.0\01.ActionPoint.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\01.ActionPoint\obj\Debug\netcoreapp2.0\01.ActionPoint.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\01.ActionPoint\obj\Debug\netcoreapp2.0\01.ActionPoint.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\01.ActionPoint\obj\Debug\netcoreapp2.0\01.ActionPoint.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\01.ActionPoint\obj\Debug\netcoreapp2.0\01.ActionPoint.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\01.ActionPoint\obj\Debug\netcoreapp2.0\01.ActionPoint.pdb

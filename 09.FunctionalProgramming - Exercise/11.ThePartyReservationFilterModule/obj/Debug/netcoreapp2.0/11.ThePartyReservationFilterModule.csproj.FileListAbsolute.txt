@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.deps.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.runtimeconfig.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.pdb
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp2.0\11.ThePartyReservationFilterModule.pdb

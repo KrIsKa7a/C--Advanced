@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\09.ListOfPredicates\bin\Debug\netcoreapp2.0\09.ListOfPredicates.deps.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\09.ListOfPredicates\bin\Debug\netcoreapp2.0\09.ListOfPredicates.runtimeconfig.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\09.ListOfPredicates\bin\Debug\netcoreapp2.0\09.ListOfPredicates.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\09.ListOfPredicates\bin\Debug\netcoreapp2.0\09.ListOfPredicates.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\09.ListOfPredicates\bin\Debug\netcoreapp2.0\09.ListOfPredicates.pdb
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\09.ListOfPredicates\obj\Debug\netcoreapp2.0\09.ListOfPredicates.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\09.ListOfPredicates\obj\Debug\netcoreapp2.0\09.ListOfPredicates.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\09.ListOfPredicates\obj\Debug\netcoreapp2.0\09.ListOfPredicates.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\09.ListOfPredicates\obj\Debug\netcoreapp2.0\09.ListOfPredicates.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\09.ListOfPredicates\obj\Debug\netcoreapp2.0\09.ListOfPredicates.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\09.ListOfPredicates\obj\Debug\netcoreapp2.0\09.ListOfPredicates.pdb

@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\12.InfernoIII\bin\Debug\netcoreapp2.0\12.InfernoIII.deps.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\12.InfernoIII\bin\Debug\netcoreapp2.0\12.InfernoIII.runtimeconfig.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\12.InfernoIII\bin\Debug\netcoreapp2.0\12.InfernoIII.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\12.InfernoIII\bin\Debug\netcoreapp2.0\12.InfernoIII.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\12.InfernoIII\bin\Debug\netcoreapp2.0\12.InfernoIII.pdb
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\12.InfernoIII\obj\Debug\netcoreapp2.0\12.InfernoIII.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\12.InfernoIII\obj\Debug\netcoreapp2.0\12.InfernoIII.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\12.InfernoIII\obj\Debug\netcoreapp2.0\12.InfernoIII.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\12.InfernoIII\obj\Debug\netcoreapp2.0\12.InfernoIII.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\12.InfernoIII\obj\Debug\netcoreapp2.0\12.InfernoIII.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\12.InfernoIII\obj\Debug\netcoreapp2.0\12.InfernoIII.pdb

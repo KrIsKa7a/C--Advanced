@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\06.ReverseAndExclude\bin\Debug\netcoreapp2.0\06.ReverseAndExclude.deps.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\06.ReverseAndExclude\bin\Debug\netcoreapp2.0\06.ReverseAndExclude.runtimeconfig.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\06.ReverseAndExclude\bin\Debug\netcoreapp2.0\06.ReverseAndExclude.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\06.ReverseAndExclude\bin\Debug\netcoreapp2.0\06.ReverseAndExclude.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\06.ReverseAndExclude\bin\Debug\netcoreapp2.0\06.ReverseAndExclude.pdb
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\06.ReverseAndExclude\obj\Debug\netcoreapp2.0\06.ReverseAndExclude.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\06.ReverseAndExclude\obj\Debug\netcoreapp2.0\06.ReverseAndExclude.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\06.ReverseAndExclude\obj\Debug\netcoreapp2.0\06.ReverseAndExclude.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\06.ReverseAndExclude\obj\Debug\netcoreapp2.0\06.ReverseAndExclude.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\06.ReverseAndExclude\obj\Debug\netcoreapp2.0\06.ReverseAndExclude.dll
+D:\VisualStudio2017 Projects\FunctionalProgramming-Exercise\06.ReverseAndExclude\obj\Debug\netcoreapp2.0\06.ReverseAndExclude.pdb
