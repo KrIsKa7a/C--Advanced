@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\01.DangerousFloor\bin\Debug\netcoreapp2.0\01.DangerousFloor.deps.json
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\01.DangerousFloor\bin\Debug\netcoreapp2.0\01.DangerousFloor.runtimeconfig.json
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\01.DangerousFloor\bin\Debug\netcoreapp2.0\01.DangerousFloor.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\01.DangerousFloor\bin\Debug\netcoreapp2.0\01.DangerousFloor.dll
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\01.DangerousFloor\bin\Debug\netcoreapp2.0\01.DangerousFloor.pdb
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\01.DangerousFloor\obj\Debug\netcoreapp2.0\01.DangerousFloor.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\01.DangerousFloor\obj\Debug\netcoreapp2.0\01.DangerousFloor.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\01.DangerousFloor\obj\Debug\netcoreapp2.0\01.DangerousFloor.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\01.DangerousFloor\obj\Debug\netcoreapp2.0\01.DangerousFloor.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\01.DangerousFloor\obj\Debug\netcoreapp2.0\01.DangerousFloor.dll
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\01.DangerousFloor\obj\Debug\netcoreapp2.0\01.DangerousFloor.pdb

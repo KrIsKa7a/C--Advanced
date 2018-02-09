@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\02.CryptoMaster\bin\Debug\netcoreapp2.0\02.CryptoMaster.deps.json
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\02.CryptoMaster\bin\Debug\netcoreapp2.0\02.CryptoMaster.runtimeconfig.json
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\02.CryptoMaster\bin\Debug\netcoreapp2.0\02.CryptoMaster.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\02.CryptoMaster\bin\Debug\netcoreapp2.0\02.CryptoMaster.dll
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\02.CryptoMaster\bin\Debug\netcoreapp2.0\02.CryptoMaster.pdb
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\02.CryptoMaster\obj\Debug\netcoreapp2.0\02.CryptoMaster.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\02.CryptoMaster\obj\Debug\netcoreapp2.0\02.CryptoMaster.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\02.CryptoMaster\obj\Debug\netcoreapp2.0\02.CryptoMaster.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\02.CryptoMaster\obj\Debug\netcoreapp2.0\02.CryptoMaster.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\02.CryptoMaster\obj\Debug\netcoreapp2.0\02.CryptoMaster.dll
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\02.CryptoMaster\obj\Debug\netcoreapp2.0\02.CryptoMaster.pdb

@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\03.GreedyTimes\bin\Debug\netcoreapp2.0\03.GreedyTimes.deps.json
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\03.GreedyTimes\bin\Debug\netcoreapp2.0\03.GreedyTimes.runtimeconfig.json
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\03.GreedyTimes\bin\Debug\netcoreapp2.0\03.GreedyTimes.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\03.GreedyTimes\bin\Debug\netcoreapp2.0\03.GreedyTimes.dll
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\03.GreedyTimes\bin\Debug\netcoreapp2.0\03.GreedyTimes.pdb
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\03.GreedyTimes\obj\Debug\netcoreapp2.0\03.GreedyTimes.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\03.GreedyTimes\obj\Debug\netcoreapp2.0\03.GreedyTimes.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\03.GreedyTimes\obj\Debug\netcoreapp2.0\03.GreedyTimes.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\03.GreedyTimes\obj\Debug\netcoreapp2.0\03.GreedyTimes.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\03.GreedyTimes\obj\Debug\netcoreapp2.0\03.GreedyTimes.dll
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\03.GreedyTimes\obj\Debug\netcoreapp2.0\03.GreedyTimes.pdb

@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\04.TreasureMap\bin\Debug\netcoreapp2.0\04.TreasureMap.deps.json
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\04.TreasureMap\bin\Debug\netcoreapp2.0\04.TreasureMap.runtimeconfig.json
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\04.TreasureMap\bin\Debug\netcoreapp2.0\04.TreasureMap.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\04.TreasureMap\bin\Debug\netcoreapp2.0\04.TreasureMap.dll
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\04.TreasureMap\bin\Debug\netcoreapp2.0\04.TreasureMap.pdb
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\04.TreasureMap\obj\Debug\netcoreapp2.0\04.TreasureMap.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\04.TreasureMap\obj\Debug\netcoreapp2.0\04.TreasureMap.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\04.TreasureMap\obj\Debug\netcoreapp2.0\04.TreasureMap.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\04.TreasureMap\obj\Debug\netcoreapp2.0\04.TreasureMap.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\04.TreasureMap\obj\Debug\netcoreapp2.0\04.TreasureMap.dll
+D:\VisualStudio2017 Projects\ExamPreparationII-Exam_03September2017\04.TreasureMap\obj\Debug\netcoreapp2.0\04.TreasureMap.pdb
