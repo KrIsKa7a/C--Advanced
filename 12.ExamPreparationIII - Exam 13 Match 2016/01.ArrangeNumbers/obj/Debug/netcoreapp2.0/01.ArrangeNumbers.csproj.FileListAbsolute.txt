@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\01.ArrangeNumbers\bin\Debug\netcoreapp2.0\01.ArrangeNumbers.deps.json
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\01.ArrangeNumbers\bin\Debug\netcoreapp2.0\01.ArrangeNumbers.runtimeconfig.json
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\01.ArrangeNumbers\bin\Debug\netcoreapp2.0\01.ArrangeNumbers.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\01.ArrangeNumbers\bin\Debug\netcoreapp2.0\01.ArrangeNumbers.dll
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\01.ArrangeNumbers\bin\Debug\netcoreapp2.0\01.ArrangeNumbers.pdb
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\01.ArrangeNumbers\obj\Debug\netcoreapp2.0\01.ArrangeNumbers.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\01.ArrangeNumbers\obj\Debug\netcoreapp2.0\01.ArrangeNumbers.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\01.ArrangeNumbers\obj\Debug\netcoreapp2.0\01.ArrangeNumbers.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\01.ArrangeNumbers\obj\Debug\netcoreapp2.0\01.ArrangeNumbers.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\01.ArrangeNumbers\obj\Debug\netcoreapp2.0\01.ArrangeNumbers.dll
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\01.ArrangeNumbers\obj\Debug\netcoreapp2.0\01.ArrangeNumbers.pdb

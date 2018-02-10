@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\04.ChampionsLeague\bin\Debug\netcoreapp2.0\04.ChampionsLeague.deps.json
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\04.ChampionsLeague\bin\Debug\netcoreapp2.0\04.ChampionsLeague.runtimeconfig.json
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\04.ChampionsLeague\bin\Debug\netcoreapp2.0\04.ChampionsLeague.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\04.ChampionsLeague\bin\Debug\netcoreapp2.0\04.ChampionsLeague.dll
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\04.ChampionsLeague\bin\Debug\netcoreapp2.0\04.ChampionsLeague.pdb
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\04.ChampionsLeague\obj\Debug\netcoreapp2.0\04.ChampionsLeague.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\04.ChampionsLeague\obj\Debug\netcoreapp2.0\04.ChampionsLeague.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\04.ChampionsLeague\obj\Debug\netcoreapp2.0\04.ChampionsLeague.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\04.ChampionsLeague\obj\Debug\netcoreapp2.0\04.ChampionsLeague.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\04.ChampionsLeague\obj\Debug\netcoreapp2.0\04.ChampionsLeague.dll
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\04.ChampionsLeague\obj\Debug\netcoreapp2.0\04.ChampionsLeague.pdb

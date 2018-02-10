@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\03.BasicMarkUpLanguage\bin\Debug\netcoreapp2.0\03.BasicMarkUpLanguage.deps.json
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\03.BasicMarkUpLanguage\bin\Debug\netcoreapp2.0\03.BasicMarkUpLanguage.runtimeconfig.json
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\03.BasicMarkUpLanguage\bin\Debug\netcoreapp2.0\03.BasicMarkUpLanguage.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\03.BasicMarkUpLanguage\bin\Debug\netcoreapp2.0\03.BasicMarkUpLanguage.dll
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\03.BasicMarkUpLanguage\bin\Debug\netcoreapp2.0\03.BasicMarkUpLanguage.pdb
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\03.BasicMarkUpLanguage\obj\Debug\netcoreapp2.0\03.BasicMarkUpLanguage.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\03.BasicMarkUpLanguage\obj\Debug\netcoreapp2.0\03.BasicMarkUpLanguage.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\03.BasicMarkUpLanguage\obj\Debug\netcoreapp2.0\03.BasicMarkUpLanguage.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\03.BasicMarkUpLanguage\obj\Debug\netcoreapp2.0\03.BasicMarkUpLanguage.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\03.BasicMarkUpLanguage\obj\Debug\netcoreapp2.0\03.BasicMarkUpLanguage.dll
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\03.BasicMarkUpLanguage\obj\Debug\netcoreapp2.0\03.BasicMarkUpLanguage.pdb

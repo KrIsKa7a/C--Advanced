@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\02.Monopoly\bin\Debug\netcoreapp2.0\02.Monopoly.deps.json
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\02.Monopoly\bin\Debug\netcoreapp2.0\02.Monopoly.runtimeconfig.json
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\02.Monopoly\bin\Debug\netcoreapp2.0\02.Monopoly.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\02.Monopoly\bin\Debug\netcoreapp2.0\02.Monopoly.dll
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\02.Monopoly\bin\Debug\netcoreapp2.0\02.Monopoly.pdb
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\02.Monopoly\obj\Debug\netcoreapp2.0\02.Monopoly.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\02.Monopoly\obj\Debug\netcoreapp2.0\02.Monopoly.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\02.Monopoly\obj\Debug\netcoreapp2.0\02.Monopoly.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\02.Monopoly\obj\Debug\netcoreapp2.0\02.Monopoly.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\02.Monopoly\obj\Debug\netcoreapp2.0\02.Monopoly.dll
+D:\VisualStudio2017 Projects\ExamPreparationIII-Exam13March2016\02.Monopoly\obj\Debug\netcoreapp2.0\02.Monopoly.pdb
