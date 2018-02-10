@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\04.Events\bin\Debug\netcoreapp2.0\04.Events.deps.json
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\04.Events\bin\Debug\netcoreapp2.0\04.Events.runtimeconfig.json
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\04.Events\bin\Debug\netcoreapp2.0\04.Events.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\04.Events\bin\Debug\netcoreapp2.0\04.Events.dll
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\04.Events\bin\Debug\netcoreapp2.0\04.Events.pdb
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\04.Events\obj\Debug\netcoreapp2.0\04.Events.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\04.Events\obj\Debug\netcoreapp2.0\04.Events.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\04.Events\obj\Debug\netcoreapp2.0\04.Events.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\04.Events\obj\Debug\netcoreapp2.0\04.Events.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\04.Events\obj\Debug\netcoreapp2.0\04.Events.dll
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\04.Events\obj\Debug\netcoreapp2.0\04.Events.pdb

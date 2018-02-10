@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\03.SoftUniNumberals\bin\Debug\netcoreapp2.0\03.SoftUniNumerals.deps.json
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\03.SoftUniNumberals\bin\Debug\netcoreapp2.0\03.SoftUniNumerals.runtimeconfig.json
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\03.SoftUniNumberals\bin\Debug\netcoreapp2.0\03.SoftUniNumerals.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\03.SoftUniNumberals\bin\Debug\netcoreapp2.0\03.SoftUniNumerals.dll
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\03.SoftUniNumberals\bin\Debug\netcoreapp2.0\03.SoftUniNumerals.pdb
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\03.SoftUniNumberals\obj\Debug\netcoreapp2.0\03.SoftUniNumerals.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\03.SoftUniNumberals\obj\Debug\netcoreapp2.0\03.SoftUniNumerals.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\03.SoftUniNumberals\obj\Debug\netcoreapp2.0\03.SoftUniNumerals.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\03.SoftUniNumberals\obj\Debug\netcoreapp2.0\03.SoftUniNumerals.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\03.SoftUniNumberals\obj\Debug\netcoreapp2.0\03.SoftUniNumerals.dll
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\03.SoftUniNumberals\obj\Debug\netcoreapp2.0\03.SoftUniNumerals.pdb

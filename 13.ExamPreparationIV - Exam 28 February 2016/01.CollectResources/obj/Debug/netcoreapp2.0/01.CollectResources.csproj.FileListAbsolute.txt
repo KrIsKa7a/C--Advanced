@@ -1,0 +1,11 @@
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\01.CollectResources\bin\Debug\netcoreapp2.0\01.CollectResources.deps.json
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\01.CollectResources\bin\Debug\netcoreapp2.0\01.CollectResources.runtimeconfig.json
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\01.CollectResources\bin\Debug\netcoreapp2.0\01.CollectResources.runtimeconfig.dev.json
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\01.CollectResources\bin\Debug\netcoreapp2.0\01.CollectResources.dll
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\01.CollectResources\bin\Debug\netcoreapp2.0\01.CollectResources.pdb
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\01.CollectResources\obj\Debug\netcoreapp2.0\01.CollectResources.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\01.CollectResources\obj\Debug\netcoreapp2.0\01.CollectResources.AssemblyInfoInputs.cache
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\01.CollectResources\obj\Debug\netcoreapp2.0\01.CollectResources.AssemblyInfo.cs
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\01.CollectResources\obj\Debug\netcoreapp2.0\01.CollectResources.dll
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\01.CollectResources\obj\Debug\netcoreapp2.0\01.CollectResources.pdb
+D:\VisualStudio2017 Projects\ExamPreparation-Exam28February2016\01.CollectResources\obj\Debug\netcoreapp2.0\01.CollectResources.csprojResolveAssemblyReference.cache
